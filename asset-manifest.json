@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8baca544.css",
+    "main.js": "/static/js/main.f67e3832.js",
+    "static/media/member-1.png": "/static/media/member-1.e799529d78f2b47cbaa8.png",
+    "static/media/login_bg.jpg": "/static/media/login_bg.6e693b76e50a7142967c.jpg",
+    "static/media/dongta.jpg": "/static/media/dongta.45a850b8e832f1e58f6f.jpg",
+    "static/media/logo.png": "/static/media/logo.5e8c0282ea50e3880008.png",
+    "static/media/trunganh.jpg": "/static/media/trunganh.41b7f44d5f5bcfdd7da8.jpg",
+    "index.html": "/index.html",
+    "main.8baca544.css.map": "/static/css/main.8baca544.css.map",
+    "main.f67e3832.js.map": "/static/js/main.f67e3832.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8baca544.css",
+    "static/js/main.f67e3832.js"
+  ]
+}
