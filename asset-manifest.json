@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d2f05a4.css",
-    "main.js": "/static/js/main.f2765fe0.js",
+    "main.css": "/static/css/main.7192fb15.css",
+    "main.js": "/static/js/main.a21504b7.js",
     "static/media/member-1.png": "/static/media/member-1.e799529d78f2b47cbaa8.png",
     "static/media/login_bg.jpg": "/static/media/login_bg.6e693b76e50a7142967c.jpg",
     "static/media/dongta.jpg": "/static/media/dongta.45a850b8e832f1e58f6f.jpg",
@@ -11,13 +11,14 @@
     "static/media/rank2.png": "/static/media/rank2.9053554246601536d55a.png",
     "static/media/ngan.jpg": "/static/media/ngan.ce63f247581d35c9c93f.jpg",
     "static/media/rank1.png": "/static/media/rank1.3dc5b8a3bdd0120c6595.png",
+    "static/media/main_bg.jpg": "/static/media/main_bg.34fcb68e823f04d7631e.jpg",
     "static/media/trunganh.jpg": "/static/media/trunganh.41b7f44d5f5bcfdd7da8.jpg",
     "index.html": "/index.html",
-    "main.3d2f05a4.css.map": "/static/css/main.3d2f05a4.css.map",
-    "main.f2765fe0.js.map": "/static/js/main.f2765fe0.js.map"
+    "main.7192fb15.css.map": "/static/css/main.7192fb15.css.map",
+    "main.a21504b7.js.map": "/static/js/main.a21504b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d2f05a4.css",
-    "static/js/main.f2765fe0.js"
+    "static/css/main.7192fb15.css",
+    "static/js/main.a21504b7.js"
   ]
 }
