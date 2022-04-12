@@ -1,33 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b9819ec.css",
-    "main.js": "/static/js/main.904bb671.js",
+    "main.css": "/static/css/main.784dc6fa.css",
+    "main.js": "/static/js/main.71b8e201.js",
     "static/media/member-1.png": "/static/media/member-1.e799529d78f2b47cbaa8.png",
     "static/media/login_bg.jpg": "/static/media/login_bg.6e693b76e50a7142967c.jpg",
     "static/media/dongta.jpg": "/static/media/dongta.45a850b8e832f1e58f6f.jpg",
-    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
-    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
-    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/hoa_loa_ken.jpg": "/static/media/hoa_loa_ken.472ccad6e2657e6dcd9e.jpg",
+    "static/media/hoa_phuong.jpg": "/static/media/hoa_phuong.3159857d56fcaafc9dcc.jpg",
+    "static/media/banner.png": "/static/media/banner.c006bf0191629b408c03.png",
+    "static/media/hoa_phi_yen.jpg": "/static/media/hoa_phi_yen.6a03f96b3ed763cd538f.jpg",
     "static/media/hoa_ban.jpg": "/static/media/hoa_ban.3b90f7cb65459ed52c8e.jpg",
-    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/hoa_trang_nguyen.jpg": "/static/media/hoa_trang_nguyen.c1a88d0bdb17c932933e.jpg",
+    "static/media/hoa_thach_thao.jpg": "/static/media/hoa_thach_thao.cebd11fa59cc28aa365c.jpg",
+    "static/media/hoa_cuc.jpg": "/static/media/hoa_cuc.4440bf49fe5beb6926df.jpg",
+    "static/media/hoa_luu_ly.jpg": "/static/media/hoa_luu_ly.e04455f507c1dc5cab2e.jpg",
+    "static/media/hoa_huong_duong.jpg": "/static/media/hoa_huong_duong.e68e08939753addb6bf1.jpg",
     "static/media/thang.jpg": "/static/media/thang.a47743e7aa07a241cf3d.jpg",
-    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/hoa_sen.jpg": "/static/media/hoa_sen.dad861016348bf49511a.jpg",
+    "static/media/hoa_dao.jpg": "/static/media/hoa_dao.3937082762f07612ba6d.jpg",
     "static/media/logo.png": "/static/media/logo.0ae28e36ff2321453761.png",
     "static/media/rank3.png": "/static/media/rank3.a6118719e0113ec6d7da.png",
     "static/media/rank2.png": "/static/media/rank2.9053554246601536d55a.png",
     "static/media/ngan.jpg": "/static/media/ngan.ce63f247581d35c9c93f.jpg",
     "static/media/rank1.png": "/static/media/rank1.3dc5b8a3bdd0120c6595.png",
-    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/hoa_thuy_tien.jpg": "/static/media/hoa_thuy_tien.ea4b65e3ccae523daee6.jpg",
     "static/media/main_bg.jpg": "/static/media/main_bg.34fcb68e823f04d7631e.jpg",
     "static/media/trunganh.jpg": "/static/media/trunganh.41b7f44d5f5bcfdd7da8.jpg",
-    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
-    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
     "index.html": "/index.html",
-    "main.9b9819ec.css.map": "/static/css/main.9b9819ec.css.map",
-    "main.904bb671.js.map": "/static/js/main.904bb671.js.map"
+    "main.784dc6fa.css.map": "/static/css/main.784dc6fa.css.map",
+    "main.71b8e201.js.map": "/static/js/main.71b8e201.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b9819ec.css",
-    "static/js/main.904bb671.js"
+    "static/css/main.784dc6fa.css",
+    "static/js/main.71b8e201.js"
   ]
 }
